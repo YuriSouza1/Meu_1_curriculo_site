@@ -1,3 +1,3 @@
 # Curr-culo_Site
-Meu currículo atualizado em site.
+Meu primeiro currículo em site.
 https://curriculosite.netlify.app/
